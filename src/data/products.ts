@@ -1,58 +1,58 @@
 import { Product } from "@/context/CartContext";
-import watch1 from "@/assets/watch-1.jpg";
-import bag1 from "@/assets/bag-1.jpg";
-import sunglasses1 from "@/assets/sunglasses-1.jpg";
 import perfume1 from "@/assets/perfume-1.jpg";
-import jewelry1 from "@/assets/jewelry-1.jpg";
-import wallet1 from "@/assets/wallet-1.jpg";
+import perfume2 from "@/assets/perfume-2.jpg";
+import perfume3 from "@/assets/perfume-3.jpg";
+import perfume4 from "@/assets/perfume-4.jpg";
+import perfume5 from "@/assets/perfume-5.jpg";
+import perfume6 from "@/assets/perfume-6.jpg";
 
 export const products: Product[] = [
   {
     id: 1,
-    name: "Reloj Elegante de Oro",
-    price: 799.99,
-    image: watch1,
-    description: "Reloj de lujo con detalles en oro de 18k y movimiento suizo de alta precisión.",
-    category: "Relojes",
+    name: "Oud Imperial",
+    price: 289.99,
+    image: perfume1,
+    description: "Fragancia masculina intensa con notas de oud, ámbar y especias orientales. Eau de Parfum 100ml.",
+    category: "Hombre",
   },
   {
     id: 2,
-    name: "Bolso de Cuero Premium",
-    price: 599.99,
-    image: bag1,
-    description: "Bolso artesanal de cuero genuino con herrajes dorados y diseño atemporal.",
-    category: "Bolsos",
+    name: "Rose Élégance",
+    price: 249.99,
+    image: perfume2,
+    description: "Perfume femenino floral con rosa búlgara, jazmín y toques de vainilla. Eau de Parfum 100ml.",
+    category: "Mujer",
   },
   {
     id: 3,
-    name: "Gafas de Sol de Diseñador",
-    price: 349.99,
-    image: sunglasses1,
-    description: "Gafas de sol con montura dorada y lentes polarizados UV400.",
-    category: "Accesorios",
+    name: "Prestige Noir",
+    price: 329.99,
+    image: perfume3,
+    description: "Fragancia unisex sofisticada con bergamota, vetiver y almizcle blanco. Eau de Parfum 100ml.",
+    category: "Unisex",
   },
   {
     id: 4,
-    name: "Perfume Eau de Parfum",
-    price: 189.99,
-    image: perfume1,
-    description: "Fragancia de lujo con notas doradas y frascos con detalles en oro.",
-    category: "Fragancias",
+    name: "Ambre Oriental",
+    price: 279.99,
+    image: perfume4,
+    description: "Perfume oriental con ámbar, sándalo, vainilla y especias exóticas. Eau de Parfum 100ml.",
+    category: "Mujer",
   },
   {
     id: 5,
-    name: "Collar de Joyería Fina",
-    price: 1299.99,
-    image: jewelry1,
-    description: "Collar elegante con piedras preciosas y cadena de oro de 14k.",
-    category: "Joyería",
+    name: "Citrus Fresh",
+    price: 199.99,
+    image: perfume5,
+    description: "Fragancia fresca cítrica con limón, bergamota y notas verdes. Eau de Toilette 100ml.",
+    category: "Hombre",
   },
   {
     id: 6,
-    name: "Cartera de Piel Exclusiva",
-    price: 249.99,
-    image: wallet1,
-    description: "Cartera de piel premium con compartimentos múltiples y detalles dorados.",
-    category: "Accesorios",
+    name: "Luxe Couture",
+    price: 389.99,
+    image: perfume6,
+    description: "Perfume exclusivo de alta costura con iris, pachulí y notas amaderadas. Eau de Parfum 100ml.",
+    category: "Unisex",
   },
 ];

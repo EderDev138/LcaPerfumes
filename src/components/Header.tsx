@@ -18,7 +18,7 @@ export function Header({ onCartClick }: HeaderProps) {
           <div className="flex items-center space-x-2">
             <div className="h-8 w-8 rounded-full bg-gradient-gold"></div>
             <span className="text-xl font-bold bg-gradient-gold bg-clip-text text-transparent">
-              LuxeStore
+              Rincon Perfumes
             </span>
           </div>
         </Link>
@@ -28,10 +28,10 @@ export function Header({ onCartClick }: HeaderProps) {
             Inicio
           </Link>
           <Link to="/products" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-            Productos
+            Perfumes
           </Link>
           <a href="#" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-            Categorías
+            Fragancias
           </a>
           <a href="#" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
             Nosotros

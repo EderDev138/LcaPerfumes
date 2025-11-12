@@ -7,10 +7,10 @@ export default function Products() {
       <div className="container mx-auto px-4 py-12">
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Nuestra Colección
+            Nuestros Perfumes
           </h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Descubre productos de lujo cuidadosamente seleccionados
+            Descubre fragancias de lujo cuidadosamente seleccionadas
           </p>
         </div>
 
