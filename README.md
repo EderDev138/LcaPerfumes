@@ -28,6 +28,6 @@ Herramientas	ESLint, Prettier, npm / yarn
 
 👥 Colaboradores
 
-Eder Valdivia – Desarrollador Frontend / Arquitectura de componentes
+Eder Valdivia – Desarrollador Full Stack / Arquitectura de componentes
 
 Leonardo Amundarain – Desarrollador Full Stack / Integración y diseño de interfaz
