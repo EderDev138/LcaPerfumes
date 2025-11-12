@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+🌸 Perfume Store – Aplicación Web con Carrito de Compras
 
-## Project info
+Una aplicación web moderna desarrollada con React, TypeScript y React Router, que permite explorar perfumes, agregarlos a un carrito de compras y simular el proceso de compra de forma sencilla y elegante.
 
-**URL**: https://lovable.dev/projects/5a059412-1a80-4da5-9b4e-035859b28ae2
+🚀 Características principales
 
-## How can I edit this code?
+🧴 Catálogo de perfumes: Muestra una lista de productos con nombre, imagen, descripción y precio.
 
-There are several ways of editing your application.
+🛒 Carrito de compras: Agrega o elimina productos, ajusta cantidades y visualiza el total en tiempo real.
 
-**Use Lovable**
+💳 Checkout simulado: Pantalla de resumen de compra con confirmación final.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5a059412-1a80-4da5-9b4e-035859b28ae2) and start prompting.
+🔍 Filtrado y búsqueda: Permite encontrar perfumes por nombre, marca o tipo.
 
-Changes made via Lovable will be committed automatically to this repo.
+🌐 Navegación con React Router: Rutas dinámicas y navegación sin recargar la página.
 
-**Use your preferred IDE**
+📱 Diseño responsivo: Compatible con móviles, tablets y escritorios.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+⚡ TypeScript: Código más seguro, limpio y mantenible.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🧰 Tecnologías utilizadas
+Categoría	Tecnologías
+Frontend	React, TypeScript, React Router, Vite / Create React App
+Estilos	CSS Modules / Styled Components / TailwindCSS (dependiendo del stack elegido)
+Estado	React Context API / Zustand / Redux Toolkit (opcional)
+Control de versiones	Git, GitHub
+Herramientas	ESLint, Prettier, npm / yarn
 
-Follow these steps:
+👥 Colaboradores
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Eder Valdivia – Desarrollador Frontend / Arquitectura de componentes
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5a059412-1a80-4da5-9b4e-035859b28ae2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Leonardo Amundarain – Desarrollador Full Stack / Integración y diseño de interfaz
